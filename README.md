@@ -1,0 +1,1 @@
+This is just an average calculator that I made using the things I learned on W3School, I am not sure where I should learn CPP but I chose W3School becuase its the only thing that I thought wouldnt make me go into tutorial hell.
